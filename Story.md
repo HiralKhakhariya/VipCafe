@@ -5,7 +5,9 @@ Hello From Branch_B
 ```
 
 Address : XYZ,
-Email : vipcafe@gmail.com
+Email : vipcafeny@gmail.com,
+Landmark : Near Infinity Mall
+Cafe manager : Alex Smith 
 
 ```
 
